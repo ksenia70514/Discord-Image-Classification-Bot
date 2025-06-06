@@ -13,7 +13,4 @@
 ⚫And the bot itself is created in the main.py file
 
                                                                      
-                                                                     text = "Good use"
-print("\n" + "="*len(text)*4)
-print(" " * 2 + text)
-print("="*len(text)*4)
+                                                                    print('good use!')
