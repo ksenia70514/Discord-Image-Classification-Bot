@@ -1,7 +1,19 @@
 # top_bot
 
-## Привет!
+## hello 👋 👋 👋 👋
 
-В файле bot_logic ты найдешь все функции для бота
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
-А сам бот создается в файле main.py
+⚪this is a telegram bot that works with artificial intelligence
+⚪bot determines dog breed poodle or beagle
+
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+⚫ In the bot_logic file you will find all the functions for the bot
+⚫And the bot itself is created in the main.py file
+
+                                                                     
+                                                                     text = "Good use"
+print("\n" + "="*len(text)*4)
+print(" " * 2 + text)
+print("="*len(text)*4)
